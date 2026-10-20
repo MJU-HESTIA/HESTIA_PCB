@@ -58,5 +58,4 @@ flowchart LR
 
 ## 5. My role
 
-- 회로도 title block의 작성자 표기는 `jun11`입니다. PCB 설계 기여 범위는 확인 후 작성 예정입니다.
-- **이승석**: 이 보드에서 동작하는 ESP32 펌웨어(HESTIA_FW)와 Jetson 연동, IR 가전 제어, 전체 시스템 통합.
+- **이승석**: PCB 회로도·레이아웃 팀원과 공동 설계(회로도 title block 작성자 표기는 `jun11`), 이 보드에서 동작하는 ESP32 펌웨어(HESTIA_FW)와 Jetson 연동, IR 가전 제어, 전체 시스템 통합.
